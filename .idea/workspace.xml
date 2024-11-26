@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="12th-Nov, TASK Push">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/TASK-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/TASK-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/TASK-1.py" afterDir="false" />
+    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="23th-Nov, TASK Push">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/TASK- Right_&amp;_Left_ triangle Pattern.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +87,19 @@
     "Python.Lab041_Ternary_Operators.executor": "Run",
     "Python.Lab041_User_Input_Ternary_Operators.executor": "Run",
     "Python.Lab042_Coding_Q.executor": "Run",
+    "Python.Lab53_While.executor": "Run",
+    "Python.Lab70_Functions_IQ.executor": "Run",
+    "Python.Lab73_RealArgs.executor": "Run",
+    "Python.Lab75.executor": "Run",
+    "Python.Lab79_Decorators.executor": "Run",
+    "Python.Lab80_Decor.executor": "Run",
+    "Python.Lab81_WithDecor.executor": "Run",
+    "Python.Lab82_RealDecor.executor": "Run",
+    "Python.Lab83_Decor2.executor": "Run",
+    "Python.Lab84_IQ_LeapYear.executor": "Run",
+    "Python.Lab86_IQ_Triangle_Classifier.executor": "Run",
+    "Python.Lab89_ForLoop.executor": "Run",
+    "Python.TASK- Right_&_Left_ triangle Pattern.executor": "Run",
     "Python.TASK-1 (1).executor": "Run",
     "Python.TASK-1.executor": "Run",
     "Python.TASK-2.executor": "Run",
@@ -111,8 +122,8 @@
       <recent name="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TASK-1 (1)">
-    <configuration name="TASK-1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.TASK- Right_&amp;_Left_ triangle Pattern">
+    <configuration name="Lab83_Decor2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_16112024_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_16112024_Loops/TASK-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab83_Decor2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TASK-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab84_IQ_LeapYear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/TASK-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab84_IQ_LeapYear.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TASK-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab86_IQ_Triangle_Classifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/TASK-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab86_IQ_Triangle_Classifier.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TASK1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab89_ForLoop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +198,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_12112024_Operators/TASK1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab89_ForLoop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TASK3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TASK- Right_&amp;_Left_ triangle Pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,11 +220,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_12112024_Operators/TASK3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/TASK- Right_&amp;_Left_ triangle Pattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TASK-1 (1)" />
-        <item itemvalue="Python.TASK-2" />
-        <item itemvalue="Python.TASK-1" />
-        <item itemvalue="Python.TASK1" />
-        <item itemvalue="Python.TASK3" />
+        <item itemvalue="Python.TASK- Right_&amp;_Left_ triangle Pattern" />
+        <item itemvalue="Python.Lab89_ForLoop" />
+        <item itemvalue="Python.Lab86_IQ_Triangle_Classifier" />
+        <item itemvalue="Python.Lab84_IQ_LeapYear" />
+        <item itemvalue="Python.Lab83_Decor2" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +307,31 @@
       <option name="project" value="LOCAL" />
       <updated>1731423026400</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="16th-Nov, TASK Push">
+      <option name="closed" value="true" />
+      <created>1731896383032</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731896383032</updated>
+    </task>
+    <task id="LOCAL-00008" summary="23th-Nov, TASK Push">
+      <option name="closed" value="true" />
+      <created>1732342847262</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732342847262</updated>
+    </task>
+    <task id="LOCAL-00009" summary="23th-Nov, TASK Push">
+      <option name="closed" value="true" />
+      <created>1732343096689</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732343096689</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -308,6 +343,8 @@
     <MESSAGE value="9th nov - Part2" />
     <MESSAGE value="9th nov - Part3" />
     <MESSAGE value="12th-Nov, TASK Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="12th-Nov, TASK Push" />
+    <MESSAGE value="16th-Nov, TASK Push" />
+    <MESSAGE value="23th-Nov, TASK Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="23th-Nov, TASK Push" />
   </component>
 </project>
